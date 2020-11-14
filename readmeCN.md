@@ -2,7 +2,7 @@
   用Gatby和Netlify创建网站
 </h1>
 <p align="left">
-  [English](#README.md) | 简体中文 
+  [English](README.md) | [简体中文](readmeCN.md)
 </p>
 
 本教程使用gatsby官网提供的一页式网站模板，这里是原作者链接 [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara).
