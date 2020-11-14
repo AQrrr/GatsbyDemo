@@ -1,20 +1,14 @@
 
-<h1 align="center">
+<h1 align="left">
   Build a starter Portfolio with Gatby&Netlify
 </h1>
 
-<p align="center">
-  <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/license-0BSD-blue.svg" alt="Gatsby Starter Portfolio: Cara is released under the 0BSD license." />
-  </a>
-  
+<p align="left">
+  English | [简体中文](./readmeCN.md)
 </p>
 
-Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Using the Gatsby Theme [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara).
+Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Using Cara's Gatsby Theme [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara) she is the origin author.
 
-
-
-Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de)
 
 ## ✨ Features
 
@@ -24,11 +18,12 @@ Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes
 
 ## 🚀 Getting Started
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/LekoArts/gatsby-starter-portfolio-cara) [![Edit gatsby-starter-portfolio-cara](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/LekoArts/gatsby-starter-portfolio-cara/tree/master/)
-
 1. **Create a Gatsby site.**
-
-Use the Gatsby CLI to create a new site, specifying this project
+Make sure you've installed Gatsby 
+```sh
+npm install -g gatsby-cli
+```
+Use the Gatsby CLI to create a new site
 
 ```sh
 gatsby new project-name https://github.com/LekoArts/gatsby-starter-portfolio-cara
@@ -39,7 +34,14 @@ gatsby new project-name https://github.com/LekoArts/gatsby-starter-portfolio-car
 Navigate into your new site's directory and start it up.
 
 ```sh
-cd project-name
+cd your-project-name
+
+with npm
+npm install // to install all the dependencies needed
+
+with yarn
+yarn // to install all the dependencies needed
+
 gatsby develop
 ```
 
@@ -55,7 +57,6 @@ Your site is now running at `http://localhost:8000`!
 
 This starter creates a new Gatsby site that installs and configures the theme [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara).
 
-Have a look at the theme's README and files to see what options are available and how you can shadow the various components including Theme UI. Generally speaking you will want to place your files into `src/@lekoarts/gatsby-theme-cara/` to shadow/override files. The Theme UI config can be configured by shadowing its files in `src/gatsby-plugin-theme-ui/`.
 
 ### Changing content
 
@@ -68,18 +69,4 @@ You have to use the `<ProjectCard />` component inside `projects.mdx` to display
 
 The `static` folder contains the icons, social media images and robots.txt. Don't forget to change these files, too!
 
-
-## 🎓 Learning Gatsby
-
-Looking for more guidance? Full documentation for Gatsby lives [on Gatsby's website](https://www.gatsbyjs.org/).
-
-### Themes
-
-- To learn more about Gatsby themes specifically, we recommend checking out the [theme docs](https://www.gatsbyjs.org/docs/themes/).
-
-### General
-
-- **For most developers, I recommend starting with the [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
-
-- **To dive straight into code samples, head [to Gatsby's documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Reference Guides_ and _Gatsby API_ sections in the sidebar.
 
