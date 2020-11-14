@@ -4,7 +4,7 @@
 </h1>
 
 <p align="left">
-  English | [简体中文](./readmeCN.md)
+  English | [简体中文](/readmeCN.md)
 </p>
 
 Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Using Cara's Gatsby Theme [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara) she is the origin author.
