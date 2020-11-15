@@ -1,7 +1,7 @@
 <h1 align="left">
   用Gatby和Netlify创建网站
 </h1>
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2b91ae69-eff5-4d85-bf87-a37b81236fde/deploy-status)](https://app.netlify.com/sites/inspiring-demo/deploys)
 [English](README.md) | [简体中文](readmeCN.md)
 
 本教程使用gatsby官网提供的一页式网站模板，这里是原作者链接 [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara).  
@@ -128,3 +128,7 @@ git push -u origin main
 
 ##### 更新你的网站
 登录你的网址 /admin/  点击 New Blog 发布新文章
+
+
+
+
