@@ -2,6 +2,7 @@
 <h1 align="left">
   Build a starter Portfolio with Gatby&Netlify
 </h1>
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2b91ae69-eff5-4d85-bf87-a37b81236fde/deploy-status)](https://app.netlify.com/sites/inspiring-demo/deploys)
 
  [English](README.md) | [简体中文](readmeCN.md)
